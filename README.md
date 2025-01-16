@@ -57,8 +57,6 @@ c.default_parse(request_)
 
 ## Roadmap
 
-### In version 0.1 only company and entrepreneur method avaible
-
 ### Version 0.2 roadmap
 - Add "search" method (search by name)
 - Add finances method
